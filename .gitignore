@@ -1,3 +1,5 @@
-keys.env
-__pycache__/
 venv/
+__pycache__/
+keys.env
+
+
